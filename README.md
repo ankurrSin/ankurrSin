@@ -23,16 +23,18 @@ I build production **React Native** apps and the **design-system tooling** behin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankurrSin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankurrSin&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurrSin&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=ankurrSin&hide_border=true&theme=tokyonight" alt="Streak" />
 
-<img src="https://img.shields.io/github/search/ankurrSin/author%3Aankurrsin%20type%3Apr?style=for-the-badge&label=Total%20PRs&color=2563eb" alt="Total PRs" />
+<img src="https://img.shields.io/badge/Pull%20Requests-183-2563eb?style=for-the-badge&logo=github" alt="Total PRs" />
+<img src="https://img.shields.io/badge/Merged-167-16a34a?style=for-the-badge&logo=git&logoColor=white" alt="Merged PRs" />
+<img src="https://img.shields.io/badge/Commits-950%2B-0f172a?style=for-the-badge&logo=github" alt="Commits" />
 
 </div>
 
-> Stats cards include private contributions only if **Settings → Profile → "Include private contributions on my profile"** is on. Most of my work is in private Lendistry org repos.
+> PR and commit totals above cover my work across the private Lendistry org repos (origen-mobile-app 85 PRs, sbl-hub 51, sbl-partner 22, origen-kit 21, origen-kit-mobile 3). The stats cards above only count what GitHub exposes publicly, unless **Settings → Profile → "Include private contributions on my profile"** is on.
 
 ---
 
